@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Work Order" max_length="40" name="x_143471_maximo_work_order" type="collection"/>
+</database>

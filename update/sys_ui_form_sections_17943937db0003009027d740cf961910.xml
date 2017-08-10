@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="17943937db0003009027d740cf961910" sys_domain="global" table="x_143471_maximo_equipment" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-26 02:20:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9b943937db0003009027d740cf961912</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_143471_maximo_equipment" name="x_143471_maximo_equipment" sys_domain="global" view="Default view">17943937db0003009027d740cf961910</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_143471_maximo_equipment" sys_domain="global" view="Default view">b122b5f3db0003009027d740cf9619b3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-26 02:20:33</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-26 02:20:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>97943937db0003009027d740cf961913</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_143471_maximo_equipment" name="x_143471_maximo_equipment" sys_domain="global" view="Default view">17943937db0003009027d740cf961910</sys_ui_form>
+            <sys_ui_section caption="Purchase Information" display_value="Purchase Information" name="x_143471_maximo_equipment" sys_domain="global" view="Default view">d7943937db0003009027d740cf96190e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-26 02:20:33</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-26 02:20:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>df943937db0003009027d740cf961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_143471_maximo_equipment" name="x_143471_maximo_equipment" sys_domain="global" view="Default view">17943937db0003009027d740cf961910</sys_ui_form>
+            <sys_ui_section caption="CapEx" display_value="CapEx" name="x_143471_maximo_equipment" sys_domain="global" view="Default view">df943937db0003009027d740cf96190e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-26 02:20:33</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-26 02:20:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d7943937db0003009027d740cf96191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_143471_maximo_equipment" name="x_143471_maximo_equipment" sys_domain="global" view="Default view">17943937db0003009027d740cf961910</sys_ui_form>
+            <sys_ui_section caption="Costs" display_value="Costs" name="x_143471_maximo_equipment" sys_domain="global" view="Default view">d7943937db0003009027d740cf96190f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-26 02:20:33</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-26 02:23:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c65bd37db0003009027d740cf9619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_143471_maximo_equipment" name="x_143471_maximo_equipment" sys_domain="global" view="Default view">17943937db0003009027d740cf961910</sys_ui_form>
+            <sys_ui_section caption="Downtime" display_value="Downtime" name="x_143471_maximo_equipment" sys_domain="global" view="Default view">5865bd37db0003009027d740cf9619c3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-26 02:23:54</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_143471_maximo_equipment</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-26 02:20:33</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>17943937db0003009027d740cf961910</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_143471_maximo_equipment</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Maximo" source="x_143471_maximo">59a17d33db0003009027d740cf96196e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Maximo">59a17d33db0003009027d740cf96196e</sys_scope>
+            <sys_update_name>sys_ui_form_sections_17943937db0003009027d740cf961910</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-26 02:20:33</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

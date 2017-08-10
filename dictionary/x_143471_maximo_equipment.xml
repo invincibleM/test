@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Equipment" max_length="40" name="x_143471_maximo_equipment" type="collection">
+        <element label="Equipment" max_length="40" name="equipment" type="string"/>
+        <element label="Up?" max_length="40" name="u_boolean_32" type="boolean"/>
+        <element attributes="omit_sys_original=true" label="This Equipment" mandatory="true" max_length="20" name="u_currency_15" type="currency"/>
+        <element attributes="omit_sys_original=true" label="Rollup" max_length="20" name="u_currency_16" type="currency"/>
+        <element attributes="omit_sys_original=true" label="Total" mandatory="true" max_length="20" name="u_currency_18" type="currency"/>
+        <element attributes="omit_sys_original=true" label="YTD" mandatory="true" max_length="20" name="u_currency_19" type="currency"/>
+        <element attributes="omit_sys_original=true" label="Budgeted" mandatory="true" max_length="20" name="u_currency_20" type="currency"/>
+        <element attributes="omit_sys_original=true" label="Inventory" mandatory="true" max_length="20" name="u_currency_21" type="currency"/>
+        <element label="Installation Date" max_length="40" name="u_glide_date_13" type="glide_date"/>
+        <element label="Warranty Date" max_length="40" name="u_glide_date_14" type="glide_date"/>
+        <element label="Modified Date" max_length="40" name="u_glide_date_23" type="glide_date"/>
+        <element label="Date/Time" max_length="40" name="u_glide_date_time_35" type="glide_date_time"/>
+        <element label="Total Downtime" mandatory="true" max_length="40" name="u_glide_duration_34" type="glide_duration"/>
+        <element label="Vendor" max_length="32" name="u_reference_11" reference="cmdb_ci_appl_dot_net" type="reference"/>
+        <element label="Manufacturer" max_length="32" name="u_reference_12" reference="cmdb_ci_appl_dot_net" type="reference"/>
+        <element label="Belongs to" max_length="32" name="u_reference_4" reference="cmdb_ci_appl_dot_net" type="reference"/>
+        <element label="Location" max_length="32" name="u_reference_6" reference="cmdb_ci_appl_dot_net" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Equipment" mandatory="true" max_length="40" name="u_string_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Last Completion" max_length="40" name="u_string_17" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="40" name="u_string_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Modified by" max_length="40" name="u_string_22" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Serial Number" max_length="40" name="u_string_9" type="string"/>
+        <index name="index">
+            <element name="u_reference_4"/>
+        </index>
+        <index name="index2">
+            <element name="u_reference_11"/>
+        </index>
+        <index name="index3">
+            <element name="u_reference_12"/>
+        </index>
+        <index name="index4">
+            <element name="u_reference_6"/>
+        </index>
+    </element>
+</database>
